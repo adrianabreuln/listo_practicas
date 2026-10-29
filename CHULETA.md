@@ -13,3 +13,4 @@
 - `git fetch`: descarga lo nuevo sin tocar tus ficheros
 - `git stash`: aparca lo que tienes a medias
 - `git cherry-pick <hash>`: trae un commit suelto
+- `git switch -c <rama>`: crea una rama y cambia a ella
